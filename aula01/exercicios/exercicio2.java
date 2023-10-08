@@ -2,7 +2,7 @@ package aula01.exercicios;
 
 import java.util.Scanner;
 
-public class exercicio02 {
+public class exercicio2 {
     public static void main(String... args){
         System.out.println("EXERCÍCIO 02: Crie um programa que receba  números e imprima na tela.");
         Scanner scanner = new Scanner(System.in);
