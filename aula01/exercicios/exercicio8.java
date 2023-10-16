@@ -9,6 +9,6 @@ public class exercicio8 {
     int sim = 1;
     int nao = 0;
 
-    System.out.println("Você é gestante, idoso e PCD? Responda com 1 para SIM e 0 para NÃO.");
+    System.out.println("Você é gestante, idoso ou PCD? Responda com 1 para SIM e 0 para NÃO.");
 
 }}
