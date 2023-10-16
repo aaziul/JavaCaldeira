@@ -15,4 +15,12 @@ public class exercicio8 {
     System.out.println("Você é gestante, idoso ou PCD? Responda com 1 para SIM e 0 para NÃO.");
     resposta = ent.nextInt();
 
+    if (resposta == 0) {
+        System.out.println("Você não pode participar da fila prioritária!");
+} else if (resposta == 1) {
+    System.out.println("Você pode participar da fila prioritária!");
+} else {
+    System.out.println("Número inválido, tente novamente respondendo com 1 para SIM e 0 para NÃO."); 
+}
+
 }}
